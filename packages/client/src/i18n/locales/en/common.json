@@ -1,0 +1,31 @@
+{
+  "appName": "Belot",
+  "home": "Home",
+  "back": "Back",
+  "close": "Close",
+  "cancel": "Cancel",
+  "confirm": "Confirm",
+  "ok": "OK",
+  "save": "Save",
+  "yes": "Yes",
+  "no": "No",
+  "loading": "Loading...",
+  "error": "Something went wrong",
+  "retry": "Retry",
+  "free": "Free",
+  "language": {
+    "label": "Language",
+    "en": "English",
+    "bg": "Български"
+  },
+  "suits": {
+    "S": "Spades",
+    "H": "Hearts",
+    "D": "Diamonds",
+    "C": "Clubs"
+  },
+  "suitHint": {
+    "title": "Suit legend"
+  },
+  "notFound": "Page not found"
+}

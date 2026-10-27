@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.env.local
+*.log
+
+# Raw third-party asset packs (kept local; processed copies live in packages/client/public/assets).
+# `npm run assets` (scripts/build_assets.py) needs these folders present locally.
+*.zip
+/Backgrounds/
+/Bars&Buttons-Asset/
+/ClassicCards/
+/Custom skins/
+/Player Avatars/
+/Press_Start_2P/

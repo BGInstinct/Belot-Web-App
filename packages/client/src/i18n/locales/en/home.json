@@ -1,0 +1,17 @@
+{
+  "tagline": "The classic Bulgarian card game",
+  "menu": {
+    "title": "Main menu",
+    "playOnline": "Play Online",
+    "playOnlineHint": "Create or join a room",
+    "tracker": "Score Tracker",
+    "trackerHint": "Keep score of a physical game",
+    "rules": "Full Rules",
+    "rulesHint": "How to play Belot",
+    "shop": "Shop",
+    "shopHint": "Card skins & tables"
+  },
+  "pressStart": "Pick a mode to start",
+  "equipped": "Equipped deck",
+  "footer": "4 players · 32 cards · 151 to win"
+}

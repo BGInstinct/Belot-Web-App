@@ -1,0 +1,22 @@
+[
+  {
+    "id": "farmer-dapper",
+    "path": "/assets/avatars/farmer-dapper.png",
+    "full": "/assets/avatars/full/farmer-dapper.png"
+  },
+  {
+    "id": "farmer-bob",
+    "path": "/assets/avatars/farmer-bob.png",
+    "full": "/assets/avatars/full/farmer-bob.png"
+  },
+  {
+    "id": "farmer-cowboy",
+    "path": "/assets/avatars/farmer-cowboy.png",
+    "full": "/assets/avatars/full/farmer-cowboy.png"
+  },
+  {
+    "id": "farmer-cowgirl",
+    "path": "/assets/avatars/farmer-cowgirl.png",
+    "full": "/assets/avatars/full/farmer-cowgirl.png"
+  }
+]

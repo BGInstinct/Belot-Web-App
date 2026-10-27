@@ -1,0 +1,123 @@
+{
+  "title": "Score Tracker",
+  "subtitle": "Keep score of a real-world Belot game",
+  "back": "Back",
+  "defaultTeamA": "Team A",
+  "defaultTeamB": "Team B",
+  "teamNamePlaceholder": "Team name",
+  "editNames": "Edit team names",
+  "target": "Play to {{target}}",
+  "hanging": "Hanging: {{points}}",
+  "hangingShort": "hanging",
+  "toWin": "{{points}} to win",
+  "tabs": {
+    "full": "Round",
+    "quick": "Quick add",
+    "allPass": "All pass"
+  },
+  "form": {
+    "addTitle": "New round #{{n}}",
+    "editTitle": "Edit round #{{n}}",
+    "contract": "Contract",
+    "declarer": "Declared by",
+    "multiplier": "Doubling",
+    "normal": "Normal",
+    "contra": "Contra",
+    "recontra": "Recontra",
+    "trickPoints": "Card points",
+    "trickHint": "Points from taken cards (without Last 10). Total {{total}}.",
+    "pointsFor": "Points for",
+    "otherTeamAuto": "{{team}} (auto)",
+    "lastTen": "Last 10",
+    "capo": "Capo",
+    "capoNone": "No capo",
+    "capoBy": "Capo by",
+    "announcements": "Announcements",
+    "announcementsHint": "Add only the announcements that count (the higher ones).",
+    "noAnnouncementsNT": "No announcements in No Trumps.",
+    "belot": "Belot",
+    "clear": "Clear",
+    "preview": "Result preview",
+    "confirm": "Record round",
+    "save": "Save changes",
+    "cancel": "Cancel",
+    "delete": "Delete round",
+    "quickHint": "Type the already converted points for each team.",
+    "quickHanging": "Points left hanging",
+    "quickCapo": "This was a capo (cannot finish the match)",
+    "allPassHint": "Everybody passed. Nothing is scored, hanging points stay, and the match cannot be finished on this round.",
+    "recordAllPass": "Record all-pass round",
+    "rawTotal": "Trick points: {{a}} – {{b}}",
+    "matchOver": "The match is over. Start a new match to keep playing.",
+    "engineUnavailable": "Scoring engine unavailable: {{error}}"
+  },
+  "contracts": {
+    "C": "Clubs",
+    "D": "Diamonds",
+    "H": "Hearts",
+    "S": "Spades",
+    "NT": "No Trumps",
+    "AT": "All Trumps"
+  },
+  "contractsShort": {
+    "C": "♣",
+    "D": "♦",
+    "H": "♥",
+    "S": "♠",
+    "NT": "NT",
+    "AT": "AT"
+  },
+  "chips": {
+    "tierce": "Tierce",
+    "quarte": "Quarte",
+    "quint": "Quint",
+    "carre100": "Carre",
+    "carre150": "Carre 9",
+    "carre200": "Carre J"
+  },
+  "outcome": {
+    "made": "Made",
+    "failed": "Failed",
+    "hanging": "Hanging",
+    "allPass": "All pass",
+    "quick": "Manual"
+  },
+  "errors": {
+    "pointsRange": "Points must be a whole number within range.",
+    "pointsSum": "Points don't add up to the round total.",
+    "capoPoints": "In a capo the capo team takes all the points.",
+    "lastTen": "The team that took the last trick must have at least 10 points.",
+    "belots": "Too many belots for this contract.",
+    "noAnnouncementsNT": "No announcements are allowed in No Trumps.",
+    "quickRange": "Enter whole non-negative numbers."
+  },
+  "sheet": {
+    "title": "Score sheet",
+    "round": "#",
+    "empty": "No rounds yet. Record the first round above.",
+    "total": "Total",
+    "undo": "Undo last",
+    "edit": "Edit",
+    "afterEnd": "after match end — not counted",
+    "capoMark": "capo",
+    "contraMark": "×2",
+    "recontraMark": "×4"
+  },
+  "newMatch": "New match",
+  "newMatchConfirm": "Start a new match? The current sheet will be cleared.",
+  "confirmYes": "Yes, start over",
+  "winner": {
+    "title": "Victory!",
+    "wins": "{{team}} wins!",
+    "score": "{{a}} : {{b}}",
+    "close": "Close",
+    "newMatch": "New match"
+  },
+  "history": {
+    "title": "Finished matches",
+    "empty": "No finished matches yet.",
+    "clear": "Clear history",
+    "rounds": "Rounds: {{count}}"
+  },
+  "hangingBlocksFinish": "151+ reached, but the last round left points hanging — the match can't finish until the next round."
+}

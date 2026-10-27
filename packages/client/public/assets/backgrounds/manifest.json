@@ -1,0 +1,98 @@
+[
+  {
+    "id": "default",
+    "path": "/assets/backgrounds/default-desk.png",
+    "width": 38,
+    "height": 38,
+    "name": {
+      "en": "Classic Felt",
+      "bg": "Класическо сукно"
+    },
+    "skinId": "default",
+    "priceEurCents": 0
+  },
+  {
+    "id": "fire",
+    "path": "/assets/backgrounds/fire.png",
+    "width": 64,
+    "height": 64,
+    "name": {
+      "en": "Fire",
+      "bg": "Огън"
+    },
+    "skinId": "fire",
+    "priceEurCents": 199
+  },
+  {
+    "id": "deco",
+    "path": "/assets/backgrounds/deco.png",
+    "width": 63,
+    "height": 63,
+    "name": {
+      "en": "Art Deco",
+      "bg": "Арт деко"
+    },
+    "skinId": "deco",
+    "priceEurCents": 199
+  },
+  {
+    "id": "fantasy",
+    "path": "/assets/backgrounds/fantasy.png",
+    "width": 64,
+    "height": 64,
+    "name": {
+      "en": "Fantasy",
+      "bg": "Фентъзи"
+    },
+    "skinId": "fantasy",
+    "priceEurCents": 199
+  },
+  {
+    "id": "forest",
+    "path": "/assets/backgrounds/forest.png",
+    "width": 64,
+    "height": 64,
+    "name": {
+      "en": "Forest",
+      "bg": "Гора"
+    },
+    "skinId": "forest",
+    "priceEurCents": 199
+  },
+  {
+    "id": "geometric",
+    "path": "/assets/backgrounds/geometric.png",
+    "width": 28,
+    "height": 30,
+    "name": {
+      "en": "Geometric",
+      "bg": "Геометрия"
+    },
+    "skinId": "geometric",
+    "priceEurCents": 199
+  },
+  {
+    "id": "nautical",
+    "path": "/assets/backgrounds/nautical.png",
+    "width": 64,
+    "height": 64,
+    "name": {
+      "en": "Nautical",
+      "bg": "Морски"
+    },
+    "skinId": "nautical",
+    "priceEurCents": 199
+  },
+  {
+    "id": "space",
+    "path": "/assets/backgrounds/space.png",
+    "width": 64,
+    "height": 64,
+    "name": {
+      "en": "Space",
+      "bg": "Космос"
+    },
+    "skinId": "space",
+    "priceEurCents": 199
+  }
+]

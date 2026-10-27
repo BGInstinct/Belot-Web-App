@@ -1,0 +1,18 @@
+{
+  "name": "belot",
+  "private": true,
+  "type": "module",
+  "workspaces": ["packages/engine", "packages/server", "packages/client"],
+  "scripts": {
+    "dev": "concurrently -n server,client -c blue,magenta \"npm run dev -w @belot/server\" \"npm run dev -w @belot/client\"",
+    "build": "npm run build -w @belot/client",
+    "test": "npm test --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "assets": "python3 scripts/build_assets.py"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0",
+    "typescript": "^5.6.0",
+    "vitest": "^3.0.0"
+  }
+}

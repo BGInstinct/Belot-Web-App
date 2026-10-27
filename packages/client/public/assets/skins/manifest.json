@@ -1,0 +1,872 @@
+[
+  {
+    "id": "default",
+    "name": "Classic",
+    "names": {
+      "en": "Classic",
+      "bg": "Класически"
+    },
+    "basePath": "/assets/skins/default",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/default/suit-icons/hearts.png",
+        "label": "Hearts",
+        "labels": {
+          "en": "Hearts",
+          "bg": "Купа"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/default/suit-icons/spades.png",
+        "label": "Spades",
+        "labels": {
+          "en": "Spades",
+          "bg": "Пика"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/default/suit-icons/clubs.png",
+        "label": "Clubs",
+        "labels": {
+          "en": "Clubs",
+          "bg": "Спатия"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/default/suit-icons/diamonds.png",
+        "label": "Diamonds",
+        "labels": {
+          "en": "Diamonds",
+          "bg": "Каро"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "default/light-bricks",
+        "path": "/assets/skins/default/backs/light-bricks.png",
+        "name": "LightBricks"
+      },
+      {
+        "id": "default/light-classic",
+        "path": "/assets/skins/default/backs/light-classic.png",
+        "name": "LightClassic"
+      },
+      {
+        "id": "default/light-dots",
+        "path": "/assets/skins/default/backs/light-dots.png",
+        "name": "LightDots"
+      },
+      {
+        "id": "default/light-pattern",
+        "path": "/assets/skins/default/backs/light-pattern.png",
+        "name": "LightPattern"
+      },
+      {
+        "id": "default/dark-classic",
+        "path": "/assets/skins/default/backs/dark-classic.png",
+        "name": "DarkClassic"
+      },
+      {
+        "id": "default/dark-default",
+        "path": "/assets/skins/default/backs/dark-default.png",
+        "name": "DarkDefault"
+      },
+      {
+        "id": "default/dark-dots",
+        "path": "/assets/skins/default/backs/dark-dots.png",
+        "name": "DarkDots"
+      },
+      {
+        "id": "default/dark-pattern",
+        "path": "/assets/skins/default/backs/dark-pattern.png",
+        "name": "DarkPattern"
+      },
+      {
+        "id": "default/dark-pips",
+        "path": "/assets/skins/default/backs/dark-pips.png",
+        "name": "DarkPips"
+      }
+    ],
+    "defaultBack": "default/light-classic",
+    "background": "/assets/backgrounds/default-desk.png",
+    "backgroundId": "default",
+    "preview": "/assets/skins/default/cards/A_hearts.png",
+    "priceEurCents": 0
+  },
+  {
+    "id": "classic-dark",
+    "name": "Classic Dark",
+    "names": {
+      "en": "Classic Dark",
+      "bg": "Класически тъмен"
+    },
+    "basePath": "/assets/skins/custom-skins/classic-dark",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/classic-dark/suit-icons/hearts.png",
+        "label": "Hearts",
+        "labels": {
+          "en": "Hearts",
+          "bg": "Купа"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/classic-dark/suit-icons/spades.png",
+        "label": "Spades",
+        "labels": {
+          "en": "Spades",
+          "bg": "Пика"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/classic-dark/suit-icons/clubs.png",
+        "label": "Clubs",
+        "labels": {
+          "en": "Clubs",
+          "bg": "Спатия"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/classic-dark/suit-icons/diamonds.png",
+        "label": "Diamonds",
+        "labels": {
+          "en": "Diamonds",
+          "bg": "Каро"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "classic-dark/dark-classic",
+        "path": "/assets/skins/custom-skins/classic-dark/backs/dark-classic.png",
+        "name": "DarkClassic"
+      },
+      {
+        "id": "classic-dark/dark-default",
+        "path": "/assets/skins/custom-skins/classic-dark/backs/dark-default.png",
+        "name": "DarkDefault"
+      },
+      {
+        "id": "classic-dark/dark-dots",
+        "path": "/assets/skins/custom-skins/classic-dark/backs/dark-dots.png",
+        "name": "DarkDots"
+      },
+      {
+        "id": "classic-dark/dark-pattern",
+        "path": "/assets/skins/custom-skins/classic-dark/backs/dark-pattern.png",
+        "name": "DarkPattern"
+      },
+      {
+        "id": "classic-dark/dark-pips",
+        "path": "/assets/skins/custom-skins/classic-dark/backs/dark-pips.png",
+        "name": "DarkPips"
+      }
+    ],
+    "defaultBack": "classic-dark/dark-classic",
+    "background": "/assets/backgrounds/default-desk.png",
+    "backgroundId": "default",
+    "preview": "/assets/skins/custom-skins/classic-dark/cards/A_hearts.png",
+    "priceEurCents": 0
+  },
+  {
+    "id": "fire",
+    "name": "Fire",
+    "names": {
+      "en": "Fire",
+      "bg": "Огън"
+    },
+    "basePath": "/assets/skins/custom-skins/fire",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/fire/suit-icons/hearts.png",
+        "label": "Flame",
+        "labels": {
+          "en": "Flame",
+          "bg": "Пламък"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/fire/suit-icons/spades.png",
+        "label": "Explosion",
+        "labels": {
+          "en": "Explosion",
+          "bg": "Експлозия"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/fire/suit-icons/clubs.png",
+        "label": "Grill",
+        "labels": {
+          "en": "Grill",
+          "bg": "Скара"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/fire/suit-icons/diamonds.png",
+        "label": "Warning",
+        "labels": {
+          "en": "Warning",
+          "bg": "Внимание"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "fire/circle",
+        "path": "/assets/skins/custom-skins/fire/backs/circle.png",
+        "name": "Circle"
+      },
+      {
+        "id": "fire/classic",
+        "path": "/assets/skins/custom-skins/fire/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "fire/default-fire",
+        "path": "/assets/skins/custom-skins/fire/backs/default-fire.png",
+        "name": "DefaultFire"
+      },
+      {
+        "id": "fire/dots",
+        "path": "/assets/skins/custom-skins/fire/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "fire/flow",
+        "path": "/assets/skins/custom-skins/fire/backs/flow.png",
+        "name": "Flow"
+      },
+      {
+        "id": "fire/pattern",
+        "path": "/assets/skins/custom-skins/fire/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "fire/pipe",
+        "path": "/assets/skins/custom-skins/fire/backs/pipe.png",
+        "name": "Pipe"
+      },
+      {
+        "id": "fire/split-explosion",
+        "path": "/assets/skins/custom-skins/fire/backs/split-explosion.png",
+        "name": "SplitExplosion"
+      },
+      {
+        "id": "fire/split-flame",
+        "path": "/assets/skins/custom-skins/fire/backs/split-flame.png",
+        "name": "SplitFlame"
+      },
+      {
+        "id": "fire/split-forest-fire",
+        "path": "/assets/skins/custom-skins/fire/backs/split-forest-fire.png",
+        "name": "SplitForestFire"
+      }
+    ],
+    "defaultBack": "fire/default-fire",
+    "background": "/assets/backgrounds/fire.png",
+    "backgroundId": "fire",
+    "preview": "/assets/skins/custom-skins/fire/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "deco",
+    "name": "Art Deco",
+    "names": {
+      "en": "Art Deco",
+      "bg": "Арт деко"
+    },
+    "basePath": "/assets/skins/custom-skins/deco",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/deco/suit-icons/hearts.png",
+        "label": "Palm",
+        "labels": {
+          "en": "Palm",
+          "bg": "Палма"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/deco/suit-icons/spades.png",
+        "label": "Feather",
+        "labels": {
+          "en": "Feather",
+          "bg": "Перо"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/deco/suit-icons/clubs.png",
+        "label": "Tower",
+        "labels": {
+          "en": "Tower",
+          "bg": "Кула"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/deco/suit-icons/diamonds.png",
+        "label": "Vase",
+        "labels": {
+          "en": "Vase",
+          "bg": "Ваза"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "deco/classic",
+        "path": "/assets/skins/custom-skins/deco/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "deco/deco-default",
+        "path": "/assets/skins/custom-skins/deco/backs/deco-default.png",
+        "name": "DecoDefault"
+      },
+      {
+        "id": "deco/diamonds",
+        "path": "/assets/skins/custom-skins/deco/backs/diamonds.png",
+        "name": "Diamonds"
+      },
+      {
+        "id": "deco/dots",
+        "path": "/assets/skins/custom-skins/deco/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "deco/golden",
+        "path": "/assets/skins/custom-skins/deco/backs/golden.png",
+        "name": "Golden"
+      },
+      {
+        "id": "deco/honey",
+        "path": "/assets/skins/custom-skins/deco/backs/honey.png",
+        "name": "Honey"
+      },
+      {
+        "id": "deco/pattern",
+        "path": "/assets/skins/custom-skins/deco/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "deco/split-feather",
+        "path": "/assets/skins/custom-skins/deco/backs/split-feather.png",
+        "name": "SplitFeather"
+      },
+      {
+        "id": "deco/split-icon",
+        "path": "/assets/skins/custom-skins/deco/backs/split-icon.png",
+        "name": "SplitIcon"
+      },
+      {
+        "id": "deco/split-round",
+        "path": "/assets/skins/custom-skins/deco/backs/split-round.png",
+        "name": "SplitRound"
+      }
+    ],
+    "defaultBack": "deco/deco-default",
+    "background": "/assets/backgrounds/deco.png",
+    "backgroundId": "deco",
+    "preview": "/assets/skins/custom-skins/deco/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "names": {
+      "en": "Fantasy",
+      "bg": "Фентъзи"
+    },
+    "basePath": "/assets/skins/custom-skins/fantasy",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/fantasy/suit-icons/hearts.png",
+        "label": "Sword",
+        "labels": {
+          "en": "Sword",
+          "bg": "Меч"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/fantasy/suit-icons/spades.png",
+        "label": "Skull",
+        "labels": {
+          "en": "Skull",
+          "bg": "Череп"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/fantasy/suit-icons/clubs.png",
+        "label": "Magic wand",
+        "labels": {
+          "en": "Magic wand",
+          "bg": "Магия"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/fantasy/suit-icons/diamonds.png",
+        "label": "Shield",
+        "labels": {
+          "en": "Shield",
+          "bg": "Щит"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "fantasy/classic",
+        "path": "/assets/skins/custom-skins/fantasy/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "fantasy/default-fantasy",
+        "path": "/assets/skins/custom-skins/fantasy/backs/default-fantasy.png",
+        "name": "DefaultFantasy"
+      },
+      {
+        "id": "fantasy/dots",
+        "path": "/assets/skins/custom-skins/fantasy/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "fantasy/eye",
+        "path": "/assets/skins/custom-skins/fantasy/backs/eye.png",
+        "name": "Eye"
+      },
+      {
+        "id": "fantasy/filt",
+        "path": "/assets/skins/custom-skins/fantasy/backs/filt.png",
+        "name": "Filt"
+      },
+      {
+        "id": "fantasy/pattern",
+        "path": "/assets/skins/custom-skins/fantasy/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "fantasy/scales",
+        "path": "/assets/skins/custom-skins/fantasy/backs/scales.png",
+        "name": "Scales"
+      },
+      {
+        "id": "fantasy/split-axe",
+        "path": "/assets/skins/custom-skins/fantasy/backs/split-axe.png",
+        "name": "SplitAxe"
+      },
+      {
+        "id": "fantasy/split-magic-circle",
+        "path": "/assets/skins/custom-skins/fantasy/backs/split-magic-circle.png",
+        "name": "SplitMagicCircle"
+      },
+      {
+        "id": "fantasy/split-shield",
+        "path": "/assets/skins/custom-skins/fantasy/backs/split-shield.png",
+        "name": "SplitShield"
+      }
+    ],
+    "defaultBack": "fantasy/default-fantasy",
+    "background": "/assets/backgrounds/fantasy.png",
+    "backgroundId": "fantasy",
+    "preview": "/assets/skins/custom-skins/fantasy/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "forest",
+    "name": "Forest",
+    "names": {
+      "en": "Forest",
+      "bg": "Гора"
+    },
+    "basePath": "/assets/skins/custom-skins/forest",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/forest/suit-icons/hearts.png",
+        "label": "Mushroom",
+        "labels": {
+          "en": "Mushroom",
+          "bg": "Гъба"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/forest/suit-icons/spades.png",
+        "label": "Leaf",
+        "labels": {
+          "en": "Leaf",
+          "bg": "Лист"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/forest/suit-icons/clubs.png",
+        "label": "Tree",
+        "labels": {
+          "en": "Tree",
+          "bg": "Дърво"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/forest/suit-icons/diamonds.png",
+        "label": "Tulip",
+        "labels": {
+          "en": "Tulip",
+          "bg": "Лале"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "forest/classic",
+        "path": "/assets/skins/custom-skins/forest/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "forest/default-forest",
+        "path": "/assets/skins/custom-skins/forest/backs/default-forest.png",
+        "name": "DefaultForest"
+      },
+      {
+        "id": "forest/dots",
+        "path": "/assets/skins/custom-skins/forest/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "forest/flowers",
+        "path": "/assets/skins/custom-skins/forest/backs/flowers.png",
+        "name": "Flowers"
+      },
+      {
+        "id": "forest/grill",
+        "path": "/assets/skins/custom-skins/forest/backs/grill.png",
+        "name": "Grill"
+      },
+      {
+        "id": "forest/pattern",
+        "path": "/assets/skins/custom-skins/forest/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "forest/split-berries",
+        "path": "/assets/skins/custom-skins/forest/backs/split-berries.png",
+        "name": "SplitBerries"
+      },
+      {
+        "id": "forest/split-butterfly",
+        "path": "/assets/skins/custom-skins/forest/backs/split-butterfly.png",
+        "name": "SplitButterfly"
+      },
+      {
+        "id": "forest/split-flower",
+        "path": "/assets/skins/custom-skins/forest/backs/split-flower.png",
+        "name": "SplitFlower"
+      },
+      {
+        "id": "forest/tree",
+        "path": "/assets/skins/custom-skins/forest/backs/tree.png",
+        "name": "Tree"
+      }
+    ],
+    "defaultBack": "forest/default-forest",
+    "background": "/assets/backgrounds/forest.png",
+    "backgroundId": "forest",
+    "preview": "/assets/skins/custom-skins/forest/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "geometric",
+    "name": "Geometric",
+    "names": {
+      "en": "Geometric",
+      "bg": "Геометрия"
+    },
+    "basePath": "/assets/skins/custom-skins/geometric",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/geometric/suit-icons/hearts.png",
+        "label": "Square",
+        "labels": {
+          "en": "Square",
+          "bg": "Квадрат"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/geometric/suit-icons/spades.png",
+        "label": "Circle",
+        "labels": {
+          "en": "Circle",
+          "bg": "Кръг"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/geometric/suit-icons/clubs.png",
+        "label": "Triangle",
+        "labels": {
+          "en": "Triangle",
+          "bg": "Триъгълник"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/geometric/suit-icons/diamonds.png",
+        "label": "Cross",
+        "labels": {
+          "en": "Cross",
+          "bg": "Кръстче"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "geometric/classic",
+        "path": "/assets/skins/custom-skins/geometric/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "geometric/dots",
+        "path": "/assets/skins/custom-skins/geometric/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "geometric/geometric-default",
+        "path": "/assets/skins/custom-skins/geometric/backs/geometric-default.png",
+        "name": "GeometricDefault"
+      },
+      {
+        "id": "geometric/pattern",
+        "path": "/assets/skins/custom-skins/geometric/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "geometric/spikes",
+        "path": "/assets/skins/custom-skins/geometric/backs/spikes.png",
+        "name": "Spikes"
+      },
+      {
+        "id": "geometric/split-circle",
+        "path": "/assets/skins/custom-skins/geometric/backs/split-circle.png",
+        "name": "SplitCircle"
+      },
+      {
+        "id": "geometric/split-cube",
+        "path": "/assets/skins/custom-skins/geometric/backs/split-cube.png",
+        "name": "SplitCube"
+      },
+      {
+        "id": "geometric/split-pyramid",
+        "path": "/assets/skins/custom-skins/geometric/backs/split-pyramid.png",
+        "name": "SplitPyramid"
+      },
+      {
+        "id": "geometric/squares",
+        "path": "/assets/skins/custom-skins/geometric/backs/squares.png",
+        "name": "Squares"
+      },
+      {
+        "id": "geometric/tower",
+        "path": "/assets/skins/custom-skins/geometric/backs/tower.png",
+        "name": "Tower"
+      }
+    ],
+    "defaultBack": "geometric/geometric-default",
+    "background": "/assets/backgrounds/geometric.png",
+    "backgroundId": "geometric",
+    "preview": "/assets/skins/custom-skins/geometric/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "nautical",
+    "name": "Nautical",
+    "names": {
+      "en": "Nautical",
+      "bg": "Морски"
+    },
+    "basePath": "/assets/skins/custom-skins/nautical",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/nautical/suit-icons/hearts.png",
+        "label": "Anchor",
+        "labels": {
+          "en": "Anchor",
+          "bg": "Котва"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/nautical/suit-icons/spades.png",
+        "label": "Clam",
+        "labels": {
+          "en": "Clam",
+          "bg": "Мида"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/nautical/suit-icons/clubs.png",
+        "label": "Boat",
+        "labels": {
+          "en": "Boat",
+          "bg": "Лодка"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/nautical/suit-icons/diamonds.png",
+        "label": "Buoy",
+        "labels": {
+          "en": "Buoy",
+          "bg": "Шамандура"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "nautical/boubles",
+        "path": "/assets/skins/custom-skins/nautical/backs/boubles.png",
+        "name": "Boubles"
+      },
+      {
+        "id": "nautical/classic",
+        "path": "/assets/skins/custom-skins/nautical/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "nautical/default-nautical",
+        "path": "/assets/skins/custom-skins/nautical/backs/default-nautical.png",
+        "name": "DefaultNautical"
+      },
+      {
+        "id": "nautical/dots",
+        "path": "/assets/skins/custom-skins/nautical/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "nautical/pattern",
+        "path": "/assets/skins/custom-skins/nautical/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "nautical/split-lobster",
+        "path": "/assets/skins/custom-skins/nautical/backs/split-lobster.png",
+        "name": "SplitLobster"
+      },
+      {
+        "id": "nautical/split-sextant",
+        "path": "/assets/skins/custom-skins/nautical/backs/split-sextant.png",
+        "name": "SplitSextant"
+      },
+      {
+        "id": "nautical/split-wheel",
+        "path": "/assets/skins/custom-skins/nautical/backs/split-wheel.png",
+        "name": "SplitWheel"
+      },
+      {
+        "id": "nautical/turtle",
+        "path": "/assets/skins/custom-skins/nautical/backs/turtle.png",
+        "name": "Turtle"
+      },
+      {
+        "id": "nautical/waves",
+        "path": "/assets/skins/custom-skins/nautical/backs/waves.png",
+        "name": "Waves"
+      }
+    ],
+    "defaultBack": "nautical/default-nautical",
+    "background": "/assets/backgrounds/nautical.png",
+    "backgroundId": "nautical",
+    "preview": "/assets/skins/custom-skins/nautical/cards/A_hearts.png",
+    "priceEurCents": 199
+  },
+  {
+    "id": "space",
+    "name": "Space",
+    "names": {
+      "en": "Space",
+      "bg": "Космос"
+    },
+    "basePath": "/assets/skins/custom-skins/space",
+    "suitIcons": {
+      "H": {
+        "path": "/assets/skins/custom-skins/space/suit-icons/hearts.png",
+        "label": "Sun",
+        "labels": {
+          "en": "Sun",
+          "bg": "Слънце"
+        }
+      },
+      "S": {
+        "path": "/assets/skins/custom-skins/space/suit-icons/spades.png",
+        "label": "Moon",
+        "labels": {
+          "en": "Moon",
+          "bg": "Луна"
+        }
+      },
+      "C": {
+        "path": "/assets/skins/custom-skins/space/suit-icons/clubs.png",
+        "label": "Star",
+        "labels": {
+          "en": "Star",
+          "bg": "Звезда"
+        }
+      },
+      "D": {
+        "path": "/assets/skins/custom-skins/space/suit-icons/diamonds.png",
+        "label": "Orbit",
+        "labels": {
+          "en": "Orbit",
+          "bg": "Орбита"
+        }
+      }
+    },
+    "backs": [
+      {
+        "id": "space/classic",
+        "path": "/assets/skins/custom-skins/space/backs/classic.png",
+        "name": "Classic"
+      },
+      {
+        "id": "space/default-space",
+        "path": "/assets/skins/custom-skins/space/backs/default-space.png",
+        "name": "DefaultSpace"
+      },
+      {
+        "id": "space/dots",
+        "path": "/assets/skins/custom-skins/space/backs/dots.png",
+        "name": "Dots"
+      },
+      {
+        "id": "space/pattern",
+        "path": "/assets/skins/custom-skins/space/backs/pattern.png",
+        "name": "Pattern"
+      },
+      {
+        "id": "space/split-black-hole",
+        "path": "/assets/skins/custom-skins/space/backs/split-black-hole.png",
+        "name": "SplitBlackHole"
+      },
+      {
+        "id": "space/split-satellite",
+        "path": "/assets/skins/custom-skins/space/backs/split-satellite.png",
+        "name": "SplitSatellite"
+      },
+      {
+        "id": "space/split-satellite2",
+        "path": "/assets/skins/custom-skins/space/backs/split-satellite2.png",
+        "name": "SplitSatellite2"
+      },
+      {
+        "id": "space/stars-space",
+        "path": "/assets/skins/custom-skins/space/backs/stars-space.png",
+        "name": "StarsSpace"
+      },
+      {
+        "id": "space/striped",
+        "path": "/assets/skins/custom-skins/space/backs/striped.png",
+        "name": "Striped"
+      },
+      {
+        "id": "space/ursa-minor",
+        "path": "/assets/skins/custom-skins/space/backs/ursa-minor.png",
+        "name": "UrsaMinor"
+      }
+    ],
+    "defaultBack": "space/default-space",
+    "background": "/assets/backgrounds/space.png",
+    "backgroundId": "space",
+    "preview": "/assets/skins/custom-skins/space/cards/A_hearts.png",
+    "priceEurCents": 199
+  }
+]
